@@ -35,7 +35,7 @@ Research Assistant will:
 
 ```bash
 git clone https://github.com/Winston-Dmello/Research-Agent.git
-cd Research_Assistant
+cd Research_Agent
 ```
 
 ### 2. Create a virtual environment
