@@ -1,3 +1,5 @@
+**This Project is based off of Tech With Tim's Advanced AI Agent Video, Be Sure to check it out to understand how this works**
+
 # 🤖 Research Assistant
 
 **Research Assistant** is a local AI-powered agent that helps developers find alternatives to developer tools, frameworks, platforms, and APIs.
@@ -32,7 +34,7 @@ Research Assistant will:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Research_Assistant.git
+git clone https://github.com/Winston-Dmello/Research-Agent.git
 cd Research_Assistant
 ```
 
@@ -55,7 +57,6 @@ Create a `.env` file in the root directory with the following contents:
 
 ```env
 SERPAPI_API_KEY=your_serpapi_key
-CRAWL4AI_API_KEY=your_crawl4ai_key
 ```
 
 ---
@@ -128,14 +129,8 @@ __pycache__/
 
 ---
 
-## 🪪 License
-
-MIT License © 2025 Winston Dmello
-
----
-
 ## 🙌 Credits
-
+- [TechWithTim](https://youtu.be/xekw62yQu14?si=Fi4BMXRMikdn8fqZ)
 - [LangGraph](https://github.com/langchain-ai/langgraph)
 - [LangChain](https://python.langchain.com/)
 - [SerpAPI](https://serpapi.com/)
