@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+langgraph
+pydantic
+crawl4ai
+serpapi
+google-search-results
+dotenv
